@@ -10,7 +10,7 @@ KDT 개발 멘토로 참여한 결과물입니다.<br><br>
 
 ### ✅ 기획
 <details>
-  <summary>**📌 기획 발표자료**</summary>
+  <summary>📌 기획 발표자료</summary>
   
   <p align="center">
     <img src="https://github.com/user-attachments/assets/d5b211fc-391a-4489-b606-770729b453da" width="45%" />
@@ -36,7 +36,7 @@ KDT 개발 멘토로 참여한 결과물입니다.<br><br>
 
 ### ✅ 개발
 <details>
-  <summary>**📌 개발 발표자료**</summary>
+  <summary>📌 개발 발표자료</summary>
   
   <p align="center">
     <img src="https://github.com/user-attachments/assets/63830cfc-46b5-44e1-89be-0dc52c782f9f" width="45%" />
@@ -54,7 +54,7 @@ KDT 개발 멘토로 참여한 결과물입니다.<br><br>
 </details>
 
 <details>
-  <summary>**📌 실행**</summary>
+  <summary>📌 실행</summary>
   
   1. 개발 환경
   - VSCode
