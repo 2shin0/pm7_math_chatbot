@@ -1,16 +1,16 @@
 ## 생성형 AI를 활용한 중등 수학 개념 및 풀이
 ---
 ### ✅ 개요
-KDT 개발 멘토로 참여한 결과물입니다.
-📌 팀원
-기획 : PM 7기 김민정, 김지민, 김화영, 유영채, 윤수정 님
-개발 멘토 : [김현경](https://github.com/beubeu95), [이신영](https://github.com/2shin0) 님
-📌 기간
+KDT 개발 멘토로 참여한 결과물입니다.<br>
+**📌 팀원**<br>
+기획 : PM 7기 김민정, 김지민, 김화영, 유영채, 윤수정 님<br>
+개발 멘토 : [김현경](https://github.com/beubeu95), [이신영](https://github.com/2shin0) 님<br>
+**📌 기간**<br>
 2024/11/7(목) ~ 11/14(목) 총 6일, 개발 약 4일
 
 ### ✅ 기획
 <details>
-  <summary>📌 기획 발표자료</summary>
+  <summary>**📌 기획 발표자료**</summary>
   
   <p align="center">
     <img src="https://github.com/user-attachments/assets/d5b211fc-391a-4489-b606-770729b453da" width="45%" />
@@ -36,7 +36,7 @@ KDT 개발 멘토로 참여한 결과물입니다.
 
 ### ✅ 개발
 <details>
-  <summary>📌 개발 발표자료</summary>
+  <summary>**📌 개발 발표자료**</summary>
   
   <p align="center">
     <img src="https://github.com/user-attachments/assets/63830cfc-46b5-44e1-89be-0dc52c782f9f" width="45%" />
@@ -54,7 +54,7 @@ KDT 개발 멘토로 참여한 결과물입니다.
 </details>
 
 <details>
-  <summary>📌 실행</summary>
+  <summary>**📌 실행**</summary>
   
   1. 개발 환경
   - VSCode
