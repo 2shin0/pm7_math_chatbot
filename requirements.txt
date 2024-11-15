@@ -1,0 +1,9 @@
+openai
+langchain
+langchain_community
+faiss-cpu
+pypdf2
+pypdf
+flask
+tiktoken
+Pillow

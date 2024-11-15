@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="../static/css/chatbot.css" />
+    <script></script>
+    <link
+      rel="stylesheet"
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <script
+      type="text/javascript"
+      async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img src="../static/img/Avatar.png" alt="수호쌤 이미지" />
+        <div>
+          <p>수호쌤</p>
+          <span>수학튜터</span>
+        </div>
+        <button id="reload">다시 시작</button>
+
+        <i class="fas fa-times"></i>
+      </div>
+
+      <div id="chatBox">
+        <div class="date">
+          <div>2024.11.14</div>
+        </div>
+        <div class="chatbotMessage">
+          <img src="../static/img/Avatar.png" alt="수호쌤 이미지" />
+          <div>
+            <p>안녕하세요.<br />다음 중 궁금한 내용을 선택해 주세요.</p>
+            <div>
+              <button id="conceptBtn">모르는 개념이 있어요</button>
+              <button id="questionBtn">모르는 문제가 있어요</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="inputBox" id="userInput">
+        <textarea
+          id="message"
+          placeholder=""
+          oninput="adjustHeight(this)"
+          disabled
+        ></textarea>
+
+        <button onclick="sendMessage()" id="sendButton">
+          <i class="fas fa-arrow-circle-up"></i>
+        </button>
+        <button id="sendButton2" style="display: none">
+          <i class="fas fa-arrow-circle-up"></i>
+        </button>
+      </div>
+
+      <div id="imageModal" class="modal">
+        <span class="close" id="closeModal">&times;</span>
+        <div class="modal-content">
+          <img id="modalImage" src="" alt="Image" />
+        </div>
+      </div>
+
+      <script src="../static/js/chatbot.js"></script>
+    </div>
+  </body>
+</html>
