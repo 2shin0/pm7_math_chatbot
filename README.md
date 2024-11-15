@@ -54,17 +54,17 @@ KDT 개발 멘토로 참여한 결과물입니다.<br><br>
 </details>
 
 <details>
-  <summary>📌 실행</summary>
+  **<summary>📌 실행</summary>**
   
   1. 개발 환경
   - VSCode
   - Python 3.10.0
-<br>
+  <br>
   2. OpenAI API KEY 준비
   - API 키를 발급받아 .env에 넣어주세요.
-<br>
+  <br>
   3. RAG 문서를 PDF 폴더에 넣어주세요.
-<br>
+  <br>
   4. 다음 명령어를 순서대로 실행하여 주세요.
   ```
 # 가상환경 생성(괄호는 실제 입력 x)
